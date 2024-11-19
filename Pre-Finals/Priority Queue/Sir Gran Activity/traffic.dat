@@ -1,0 +1,6 @@
+main_lane,pedestrian,5
+diversion_lane,vehicle,3
+main_lane,pedestrian,4
+main_lane,vehicle,6
+diversion_lane,pedestrian,2
+main_lane,pedestrian,3
