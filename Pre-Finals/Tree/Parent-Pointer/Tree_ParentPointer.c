@@ -33,7 +33,6 @@ int rightSibling(Tree t, int nodeNdx){
     for (x = nodeNdx + 1; x < MAX && t[x].parent != nodeParent; x++){}
 
     return (x == MAX ? -1 : x);
-
 }
 
 int label(Tree t, int nodeNdx){
